@@ -14,7 +14,7 @@ body
 	font-family: 'Open Sans', sans-serif;
 }
 
-.form-control{color:#BDFEF2;}
+.form-control{color:#9aedde;}
 
 #wrapper
 {
@@ -36,13 +36,13 @@ header
 }
 .text {
 
-    color: #BDFEF2;
+    color: #9aedde;
     font-size:12px;
     font-style: italic;padding-left:12px;
 
 }
 .logo img {
-    border-right: 1px solid #BDFEF2;
+    border-right: 1px solid #9aedde;
     padding-right: 12px;width:220px;
 
 }
@@ -60,7 +60,7 @@ button {
 .search{ float: right;}
 .search1 i, .search i{    position: absolute;
     margin: 14px 12px;
-    color: #BDFEF2;
+    color: #9aedde;
     cursor: pointer;
 }
 .search1 input,
@@ -93,13 +93,13 @@ ul.navbar-nav {
 .dvider {
 
     height: 90px;
-    border: 1px solid #BDFEF2;
+    border: 1px solid #9aedde;
 
     margin: 0px 40px;
     display: inline-block;
 
 }
-.sign a{color:#BDFEF2; cursor:pointer;}
+.sign a{color:#9aedde; cursor:pointer;}
 .sign a:hover{color:#fff;text-decoration:none;}
 .sign img{display:block;}
 .sign {
@@ -113,7 +113,7 @@ ul.navbar-nav {
 }
 
 .navbar-nav>li a {
-    color: #BDFEF2;
+    color: #9aedde;
     text-decoration: none;
     display: block;
     padding: 15px 13px; font-size:14px;
@@ -392,7 +392,7 @@ margin:30px 0px 0px 0px;
 margin:0px;
     border-top: 1px solid #fff;
 padding: 20px 0px;}
-.navbar-default .navbar-nav>li a{    color: #BDFEF2;
+.navbar-default .navbar-nav>li a{    color: #9aedde;
     text-decoration: none;
     display: block;
     padding: 15px 13px;
@@ -446,7 +446,7 @@ header{padding:0px;}
     left:38px;
 
 }
-    
+
 }
 
 /****/
@@ -469,7 +469,7 @@ header{padding:0px;}
 
 }
 .sec_include,.sec_include-middle,.sec_include1{padding-bottom:0px; padding-top:40px;}
-    
+
 footer {
     height: auto;
 }
@@ -536,101 +536,87 @@ button.navbar-toggler  i{font-size:30px;}
 .dvider {
     display: none;
 }
-.navbar-nav>li
-{text-align: center;
+.navbar-nav>li {
+  text-align: center;
 	display:block;
 }
 
-.logo
-{
-margin:30px 0px 0px 0px;
+.logo {
+  margin:30px 0px 0px 0px;
 }
 
 .navbar-nav {margin: 14.5px auto;}
 
-.navbar-default .navbar-nav>li a{    color: #BDFEF2;
+.navbar-default .navbar-nav>li a{
+    color: #9aedde;
     text-decoration: none;
     display: block;
     padding: 15px 13px;
     font-size: 14px;
-    transition: all 0.5s ease;}
+    transition: all 0.5s ease;
+}
 
 /*****/
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-
     color: #555;
     background-color:transparent;
-
 }
+
 .navbar-toggle {
-    position: relative;
-    margin-top: -51px;
+  position: relative;
+  margin-top: -51px;
 	border:0px;right:0px;
 }
-.navbar-brand
-{
+
+.navbar-brand {
 	height:27px;
 }
-.navbar-default .navbar-toggle .icon-bar
-{
+
+.navbar-default .navbar-toggle .icon-bar {
 	background-color:#fff;
 }
-.navbar-toggle:hover, .navbar-toggle:focus
-{
+
+.navbar-toggle:hover, .navbar-toggle:focus {
 	background:transparent !important;
 	border:0px;
 	background-color:transparent ~important;
 }
-nav.navbar
-{
+
+nav.navbar {
 	min-height:27px;
 }
-     .banner span{font-size:20px;}
+  .banner span{font-size:20px;}
 }
 
 @media screen and (max-width: 400px) and (min-width: 320px) {
-
-.navbar-toggle{margin-top: -32px;}
+  .navbar-toggle{margin-top: -32px;}
 }
 
 @media screen and (max-width: 500px) and (min-width: 401px) {
-
-.navbar-toggle{margin-top: -39px;}
+  .navbar-toggle{margin-top: -39px;}
 }
 
 @media screen and (max-width: 600px) and (min-width: 501px) {
-
-.navbar-toggle{margin-top: -43px;}
+  .navbar-toggle{margin-top: -43px;}
 }
 
 @media screen and (max-width: 1024px) and (min-width: 787px) {
-
-.navbar-toggle{margin-top: -45px;}
+  .navbar-toggle{margin-top: -45px;}
 }
 
-
-
-
-@media (max-width:1200px)
-{
-
+@media (max-width:1200px) {
     .mobileImg{display: block;}
     .desktop{display: none;}
-
 }
-@media (max-width:991px)
-{
+
+@media (max-width:991px) {
     footer{max-height: 100%;
                 height:100%;}
     .video-sec{position:relative;}
-
 }
-@media(max-width:325px)
-{
-    
+
+@media(max-width:325px) {
 .search1 i { position:absolute;
     left:0;
-
+  }
 }
-}
-
