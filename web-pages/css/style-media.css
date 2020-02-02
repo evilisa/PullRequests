@@ -14,7 +14,7 @@ body
 	font-family: 'Open Sans', sans-serif;
 }
 
-.form-control{color:#9aedde;}
+.form-control{color:##CC35B7;}
 
 #wrapper
 {
@@ -35,32 +35,27 @@ header
 	float:left; background: #212121;
 }
 .text {
-
-    color: #9aedde;
+    color: ##CC35B7;
     font-size:12px;
     font-style: italic;padding-left:12px;
 
 }
 .logo img {
-    border-right: 1px solid #9aedde;
+    border-right: 1px solid ##CC35B7;
     padding-right: 12px;width:220px;
 
 }
 button {
-
     border: none;
     background: none;
-
 }
 .logo {
-
     margin: 30px 0px;padding:0px;
-
 }
 .search{ float: right;}
 .search1 i, .search i{    position: absolute;
     margin: 14px 12px;
-    color: #9aedde;
+    color: ##CC35B7;
     cursor: pointer;
 }
 .search1 input,
@@ -93,13 +88,13 @@ ul.navbar-nav {
 .dvider {
 
     height: 90px;
-    border: 1px solid #9aedde;
+    border: 1px solid ##CC35B7;
 
     margin: 0px 40px;
     display: inline-block;
 
 }
-.sign a{color:#9aedde; cursor:pointer;}
+.sign a{color:##CC35B7; cursor:pointer;}
 .sign a:hover{color:#fff;text-decoration:none;}
 .sign img{display:block;}
 .sign {
@@ -113,7 +108,7 @@ ul.navbar-nav {
 }
 
 .navbar-nav>li a {
-    color: #9aedde;
+    color: ##CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px; font-size:14px;
@@ -392,7 +387,7 @@ margin:30px 0px 0px 0px;
 margin:0px;
     border-top: 1px solid #fff;
 padding: 20px 0px;}
-.navbar-default .navbar-nav>li a{    color: #9aedde;
+.navbar-default .navbar-nav>li a{    color: ##CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px;
@@ -548,7 +543,7 @@ button.navbar-toggler  i{font-size:30px;}
 .navbar-nav {margin: 14.5px auto;}
 
 .navbar-default .navbar-nav>li a{
-    color: #9aedde;
+    color: ##CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px;

@@ -39,15 +39,11 @@ header
 
 }
 button {
-
     border: none;
     background: none;
-
 }
 .logo {
-
     margin: 30px 0px;padding:0px;
-
 }
 .search{ float: right;}
 
@@ -58,12 +54,9 @@ button {
 }
 .search1 input,
 .search input {
-
-
     width: 228px;padding-left:30px;
     background: #fff0;
     border-radius: 40px;
-
 }
 
 /*----Navbar---Css---*/
