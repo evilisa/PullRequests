@@ -1,5 +1,4 @@
 body{
-
     font-family: 'Open Sans', sans-serif;
 }
 *
@@ -46,7 +45,7 @@ button {
 .search{ float: right;}
 .search1 i, .search i{    position: absolute;
     margin: 14px 12px;
-    color: #BDFEF2;
+    color: blue;
     cursor: pointer;
 }
 .search1 input,
