@@ -28,13 +28,13 @@ header
 .mobile-togle{display:none;}
 .text {
 
-    color: #BDFEF2;
+    color: #CC35B7;
     font-size: 12px;
     font-style: italic;padding-left:12px;
 
 }
 .logo img {
-    border-right: 1px solid #BDFEF2;
+    border-right: 1px solid #CC35B7;
     padding-right: 12px;width:220px;
 
 }
@@ -49,7 +49,7 @@ button {
 
 .search1 i, .search i{    position: absolute;
     margin: 14px 12px;
-    color: #BDFEF2;
+    color: #CC35B7;
     cursor: pointer;
 }
 .search1 input,
@@ -79,13 +79,13 @@ ul.navbar-nav {
 .dvider {
 
     height: 90px;
-    border: 1px solid blue;
+    border: 1px solid #CC35B7;
 
     margin: 0px 40px;
     display: inline-block;
 
 }
-.sign a{color:#BDFEF2; cursor:pointer;}
+.sign a{color:#CC35B7; cursor:pointer;}
 .sign a:hover{color:#fff;text-decoration:none;}
 .sign img{display:block;}
 .sign {
@@ -99,7 +99,7 @@ ul.navbar-nav {
 }
 
 .navbar-nav>li a {
-    color: #BDFEF2;
+    color: #CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px; font-size:14px;
@@ -350,7 +350,7 @@ margin:30px 0px 0px 0px;
 margin:0px;
     border-top: 1px solid #fff;
 padding: 20px 0px;}
-.navbar-default .navbar-nav>li a{    color: #BDFEF2;
+.navbar-default .navbar-nav>li a{    color: #CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px;
@@ -406,13 +406,13 @@ header{padding:0px;}
 }
 }
 
-@media (min-width: 768px) and (max-width:768px) 
+@media (min-width: 768px) and (max-width:768px)
 {
     .middle{margin-left: 32%;}
     .content-right{width:768px!important;}
-    
+
 }
-@media (min-width: 425px) and (max-width:425px) 
+@media (min-width: 425px) and (max-width:425px)
 {
     .content-right{width:425px!important;}
 }
@@ -495,7 +495,7 @@ margin:30px 0px 0px 0px;
 
 .navbar-nav {margin: 14.5px auto;}
 
-.navbar-default .navbar-nav>li a{    color: #BDFEF2;
+.navbar-default .navbar-nav>li a{    color: #CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px;
@@ -572,7 +572,7 @@ nav.navbar
 }
 @media(max-width:325px)
 {
-    
+
 .search1 i { position:absolute;
     left:0;
 
