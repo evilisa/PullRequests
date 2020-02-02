@@ -25,14 +25,14 @@ header
 	float:left; background: #212121;
 }
 
-.form-control{color:#BDFEF2;}
+.form-control{color:#CC35B7;}
 .text {
     color: blue;
     font-size: 12px;
     font-style: italic;padding-left:12px;
 }
 .logo img {
-    border-right: 1px solid #BDFEF2;
+    border-right: 1px solid #CC35B7;
     padding-right: 12px;width:220px;
 
 }
@@ -46,7 +46,7 @@ button {
 .search{ float: right;}
 .search1 i, .search i{    position: absolute;
     margin: 14px 12px;
-    color: #BDFEF2;
+    color: #CC35B7;
     cursor: pointer;
 }
 .search1 input,
@@ -79,13 +79,13 @@ ul.navbar-nav {
 .dvider {
 
     height: 90px;
-    border: 1px solid #BDFEF2;
+    border: 1px solid #CC35B7;
 
     margin: 0px 40px;
     display: inline-block;
 
 }
-.sign a{color:#BDFEF2; cursor:pointer;}
+.sign a{color:#CC35B7; cursor:pointer;}
 .sign a:hover{color:#fff;text-decoration:none;}
 .sign img{display:block;}
 .sign {
@@ -99,7 +99,7 @@ ul.navbar-nav {
 }
 
 .navbar-nav>li a {
-    color: #BDFEF2;
+    color: #CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px; font-size:14px;
@@ -374,7 +374,7 @@ margin:30px 0px 0px 0px;
 margin:0px;
     border-top: 1px solid #fff;
 padding: 20px 0px;}
-.navbar-default .navbar-nav>li a{    color: #BDFEF2;
+.navbar-default .navbar-nav>li a{    color: #CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px;
@@ -535,7 +535,7 @@ margin:30px 0px 0px 0px;
 
 .navbar-nav {margin: 14.5px auto;}
 
-.navbar-default .navbar-nav>li a{    color: #BDFEF2;
+.navbar-default .navbar-nav>li a{    color: #CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px;
@@ -573,7 +573,7 @@ nav.navbar
 	min-height:27px;
 }
     .banner span{font-size:20px;}
-    
+
     .adj_text{padding-right:15px;}
 
 }
@@ -626,7 +626,7 @@ margin:30px 0px 0px 0px;
 margin:0px;
     border-top: 1px solid #fff;
 padding: 20px 0px;}
-.navbar-default .navbar-nav>li a{    color: #BDFEF2;
+.navbar-default .navbar-nav>li a{    color: #CC35B7;
     text-decoration: none;
     display: block;
     padding: 15px 13px;
@@ -685,7 +685,7 @@ header{padding:0px;}
 }
 @media(max-width:325px)
 {
-    
+
 .search1 i { position:absolute;
     left:0;
 
