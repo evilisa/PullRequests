@@ -1,7 +1,6 @@
 body{
 
     font-family: 'Open Sans', sans-serif;
-
 }
 *
 {
@@ -28,11 +27,9 @@ header
 
 .form-control{color:#BDFEF2;}
 .text {
-
-    color: #BDFEF2;
+    color: blue;
     font-size: 12px;
     font-style: italic;padding-left:12px;
-
 }
 .logo img {
     border-right: 1px solid #BDFEF2;
@@ -40,15 +37,11 @@ header
 
 }
 button {
-
     border: none;
     background: none;
-
 }
 .logo {
-
     margin: 30px 0px;padding:0px;
-
 }
 .search{ float: right;}
 .search1 i, .search i{    position: absolute;
