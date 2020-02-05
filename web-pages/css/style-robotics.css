@@ -52,7 +52,7 @@ button {
 
 .search1 i, .search i{    position: absolute;
     margin: 14px 12px;
-    color: #BDFEF2;
+    color: purple;
     cursor: pointer;
 }
 .search1 input,
@@ -84,7 +84,7 @@ ul.navbar-nav {
 }
 .dvider {
     height: 90px;
-    border: 1px solid #BDFEF2;
+    border: 1px solid blue;
     margin: 0px 40px;
     display: inline-block;
 
