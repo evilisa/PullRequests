@@ -1,7 +1,6 @@
 body{
 
     font-family: 'Open Sans', sans-serif;
-
 }
 *
 {
@@ -13,7 +12,7 @@ body
 {
 	font-family: 'Open Sans', sans-serif;
 }
-.form-control{color:5a3cbd;}
+.form-control{color:#5a3cbd;}
 #wrapper
 {
 	width:100%;
@@ -84,7 +83,6 @@ ul.navbar-nav {
     text-align: right;
 }
 .dvider {
-
     height: 90px;
     border: 1px solid #5a3cbd;
     margin: 0px 40px;
